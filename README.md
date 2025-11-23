@@ -1,2 +1,14 @@
-# Proyecto-Fenomenos-de-Transporte
-XD
+### Descripción general breve del proyecto y su relevancia sustentable.
+.......
+
+### Explicación del sistema físico modelado, con diagrama o esquema descriptivo.
+.......
+
+### Descripción del método numérico utilizado en profundidad.
+.......
+
+### Instrucciones para ejecutar el código (dependencias, librerías, orden de ejecución).
+.......
+
+### Indicar gráficos o tablas que resuman los perfiles obtenidos y sus implicancias físicas.
+.......
