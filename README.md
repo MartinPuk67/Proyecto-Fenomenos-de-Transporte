@@ -8,11 +8,11 @@ y más accesible.
 La ciudad de Valdivia se tomó como referencia a la hora de implementar el modelo, es por esto que datos como la temperatura ambiente corresponden a la de esta ciudad.
 
 ### Explicación del sistema físico modelado, con diagrama o esquema descriptivo.
+![Gráfico 1](./assets/Esquema_tanque.png)
 Con el modelo matemático implementado, se plantea un modelo de transferencia de calor unidimensional en estado transiente. Para esto, se utilizaron
 coordenadas cilíndricas y se utilizó "z" como la variable espacial, la cual corresponde a la altura del tanque.
-En la siguiente figura se puede ver el modelo de tanque con el que se trabaja.
-![Gráfico 1](./assets/Esquema_tanque.png)
-
+En la figura se puede ver el modelo de tanque con el que se trabaja, el cual posee un serpentín que va suministrando calor a las paredes del tanque, con
+el objetivo de calentar el fluido que se encuentra dentro.
 ### Descripción del método numérico utilizado en profundidad.
 .......
 
