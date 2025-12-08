@@ -11,7 +11,7 @@ La ciudad de Valdivia se tomó como referencia a la hora de implementar el model
 Con el modelo matemático implementado, se plantea un modelo de transferencia de calor unidimensional en estado transiente. Para esto, se utilizaron
 coordenadas cilíndricas y se utilizó "z" como la variable espacial, la cual corresponde a la altura del tanque.
 En la siguiente figura se puede ver el modelo de tanque con el que se trabaja.
-![Texto alternativo](./imagenes/Esquema_tanque.png)
+![Gráfico 1](./assets/Esquema_tanque.png)
 
 ### Descripción del método numérico utilizado en profundidad.
 .......
